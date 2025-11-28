@@ -6,7 +6,7 @@
 
 ### Download
 
-- Free Download: [xAutoClicker.com](https://xAutoClicker.com/download)
+- Free Download: [xAutoClicker.com/download](https://xautoclicker.com/download)
 
 ### Key Features
 

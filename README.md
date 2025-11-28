@@ -61,5 +61,6 @@
 
 ## 🔗 Connect With Us
 
-- Website: [xAutoClicker.com](https://xAutoClicker.com)
+- Website: [xAutoClicker.com](https://xautoclicker.com)
+- Discord: [xAutoClicker.com/discord](https://xautoclicker.com/discord)
 - GitHub: [@xAutoClicker](https://github.com/xAutoClicker)

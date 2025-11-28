@@ -14,7 +14,7 @@
 |---------|-------------|----------------------|
 | **AI-Powered Clicking** | Intelligent click patterns that mimic human behavior | **Undetectable natural mouse movements** |
 | **Biometric Integration** | Personalized clicking profiles based on your unique interaction patterns | **Adaptive and personalized automation** |
-| **Multi-Platform Support** | Seamless operation on Windows, Mac, and Linux | **Universal compatibility** |
+| **Multi-Platform Support** | Seamless operation on Windows | **Universal compatibility** |
 | **Resource Optimization** | Lightweight design with minimal system impact | **Ultra-efficient performance** |
 
 ### 🧠 Smart Automation Capabilities

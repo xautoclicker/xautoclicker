@@ -1,11 +1,18 @@
-# xAutoClicker: The Intelligent Mouse Automation Companion
+<img src="xautoclicker.gif" alt="xAutoClicker AI Preview" width="128"/>
 
 ## 🚀 Next-Generation Auto Clicking Technology
 
+<img src="xautoclicker-preview.png" alt="xAutoClicker AI Preview" width="720"/>
+
 **xAutoClicker is the most advanced auto clicker on the market, leveraging cutting-edge AI to revolutionize mouse automation.**
 
-### Download
+![Version](https://img.shields.io/badge/version-1.0.0-indigo.svg)
+![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-blue.svg)
+![License](https://img.shields.io/badge/license-Proprietary-red.svg)
 
+<div align="center">
+
+### Download
 - Free Download: [xAutoClicker.com/download](https://xautoclicker.com/download)
 
 ### Key Features

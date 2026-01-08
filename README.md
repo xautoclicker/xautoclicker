@@ -1,12 +1,16 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/xautoclicker/best-minecraft-pvp-autoclicker/refs/heads/main/xautoclicker.gif" alt="xAutoClicker AI Preview" width="128"/>
+  <a href="https://xautoclicker.com/download">
+    <img src="https://raw.githubusercontent.com/xautoclicker/best-minecraft-pvp-autoclicker/refs/heads/main/xautoclicker.gif" alt="xAutoClicker AI Preview" width="128"/>
+  </a>
 
-## 🚀 Next-Generation Auto Clicking Technology
+  <h2>🚀 Next-Generation Auto Clicking Technology</h2>
 
-<img src="https://raw.githubusercontent.com/xautoclicker/best-minecraft-pvp-autoclicker/refs/heads/main/xautoclicker-preview.png" alt="xAutoClicker AI Preview" width="720"/>
+  <a href="https://xautoclicker.com/download">
+    <img src="https://raw.githubusercontent.com/xautoclicker/best-minecraft-pvp-autoclicker/refs/heads/main/xautoclicker-preview.png" alt="xAutoClicker AI Preview" width="720"/>
+  </a>
 
-**xAutoClicker is the most advanced auto clicker on the market, leveraging cutting-edge AI to revolutionize mouse automation.**
+  <p><b>xAutoClicker is the most advanced auto clicker on the market, leveraging cutting-edge AI to revolutionize mouse automation.</b></p>
 
 ![Version](https://img.shields.io/badge/version-1.0.0-indigo.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-blue.svg)
